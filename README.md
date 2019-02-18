@@ -9,7 +9,7 @@ Architectural Pattern
 
 Behavioral Pattern
 
-Security Pattern.
+Security Pattern
 
 
 # Disclaimer
