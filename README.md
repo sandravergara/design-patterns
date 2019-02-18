@@ -3,13 +3,17 @@
 
 This repository contains different design patterns for smart contract programming language.
 
-#Contents
+# Contents
+
 Architectural Pattern
+
 Behavioral Pattern
+
 Security Pattern.
 
-#Disclaimer
-Do not use in production. Still in development.
+
+# Disclaimer
+Do not use in production and still in development.
 
 
 
