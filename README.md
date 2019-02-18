@@ -13,7 +13,7 @@ Security Pattern.
 
 
 # Disclaimer
-Do not use in production and still in development.
+Still in development and also do not use in production
 
 
 
